@@ -13,7 +13,7 @@ import net.minecraftforge.common.ToolType;
 public class Black_Opal_Ore_Settings extends Block {
 
 	public Black_Opal_Ore_Settings() {
-		super(Properties.create(Material.IRON).hardnessAndResistance(25f).lightValue(5).sound(SoundType.METAL));
+		super(Properties.create(Material.IRON).hardnessAndResistance(25f).sound(SoundType.METAL));
 	}
 	
 	@Nullable
