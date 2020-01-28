@@ -76,3 +76,4 @@ public enum ArmorMaterialList implements IArmorMaterial
 	
 	
 }
+
