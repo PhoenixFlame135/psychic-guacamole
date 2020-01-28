@@ -13,7 +13,7 @@ import net.minecraftforge.common.ToolType;
 public class Amethyst_Ore_Settings extends Block {
 
 	public Amethyst_Ore_Settings() {
-		super(Properties.create(Material.IRON).hardnessAndResistance(10f).lightValue(5).sound(SoundType.METAL));
+		super(Properties.create(Material.IRON).hardnessAndResistance(10f).sound(SoundType.METAL));
 	}
 	
 	@Nullable
